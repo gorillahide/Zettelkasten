@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettelkasten/Insertion Sort.md",
+                "file": "6 - Zettelkasten/Hadamard Determinant Inequality.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Zettelkasten/Insertion Sort.md",
+                "file": "6 - Zettelkasten/Hadamard Determinant Inequality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Zettelkasten/Insertion Sort.md",
+                "file": "6 - Zettelkasten/Hadamard Determinant Inequality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Zettelkasten/Insertion Sort.md"
+                "file": "6 - Zettelkasten/Hadamard Determinant Inequality.md"
               }
             }
           }
@@ -146,6 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab1717764cd1406a",
-  "lastOpenFiles": []
+  "active": "b46d3d285aa4c859",
+  "lastOpenFiles": [
+    "6 - Zettelkasten/Fitting the Simple Linear Regression Model.md",
+    "6 - Zettelkasten/Finding a job.md",
+    "6 - Zettelkasten/Hadamard Determinant Inequality.md",
+    "6 - Zettelkasten/Determinant.md",
+    "6 - Zettelkasten/Eigenvalue Multiplicity.md",
+    "6 - Zettelkasten/NP Completeness.md",
+    "6 - Zettelkasten/Matrix Multiplication.md",
+    "README.md",
+    "2 - Source Material/Discrete and Cominatorial Mathematics by Ralph Grimaldi.md",
+    "6 - Zettelkasten/Combinatorics.md",
+    "0 - Scratchwork/Unitary Matrices Scratchwork.md",
+    "0 - Scratchwork/QR Factorization.md",
+    "0 - Scratchwork/A matrix is diagonalizeable iff e-vals have equal multiplicities.md",
+    "0 - Scratchwork/Midterm.md",
+    "0 - Scratchwork/09182024 Matrix Theory Notes.md",
+    "0 - Scratchwork/10042024 Matrix Theory Notes.md",
+    "6 - Zettelkasten/Web Development.md",
+    "6 - Zettelkasten/Regression Analysis.md.part",
+    "6 - Zettelkasten/Prime Number Theorem.md",
+    "6 - Zettelkasten/Insertion Sort.md.part",
+    "6 - Zettelkasten/In-place Algorithm.md",
+    "6 - Zettelkasten/Elementary Row Operations and Determinate Effects.md",
+    "6 - Zettelkasten/Definitions of Culture in Cultural Anthropology.md",
+    "6 - Zettelkasten/2024-09-17.md",
+    "4 - Indexes/Linear Algebra and Matrix Theory.md",
+    "4 - Indexes/Anthropology.md",
+    "2 - Source Material/Linear Algebra and Matrices by Helene Shapiro.md",
+    "2 - Source Material/Europe and The People Without History by Eric Wolf.md",
+    "0 - Scratchwork"
+  ]
 }

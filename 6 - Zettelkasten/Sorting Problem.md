@@ -15,5 +15,9 @@ That is, to say, it takes a possibly non ordered input and outputs a reordered p
 Because of sorting's importance as an intermediary step, we have a large number of good [[Sorting Algorithms]]. It is to be noted that there is no best sorting algorithm, as the best depends heavily on the use case and specifications. 
 
 An algorithm is said to be correct, if for every input instance, it halts with the correct output. We say that a correct algorithm solves the given computational problem. [[Correctness (Computer Science)]] However, incorrect algorithms can still be of use if we can control their rate of error, which comes to light in sieving algorithms used to find [[Prime Numbers]].
+
+##### Note:
+I very frequently use this as an example of how to use markdown and LaTex as well as more generally an example of how Obsidian can look. I have no issues with the current implementation of this, but it may be worth having another one as more of a "flex."
 # References
 [[Introduction to Algorithms 3rd Edition]]
+[[Leetcode]]

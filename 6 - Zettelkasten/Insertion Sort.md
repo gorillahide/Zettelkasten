@@ -18,6 +18,6 @@ In essence, the key starts as the second element of the array and the index is t
 O($n^2$ ) worst case time complexity.
 O($n$) best care time complexity.
 Best used on small $n$ 
-
+Its space complexity is O($log(n)$)
 # References
 [[Introduction to Algorithms 3rd Edition]]
